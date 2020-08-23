@@ -6,6 +6,9 @@ Customizing configuration, kernel, and the package installed in image.
 
 ## Related Link
 
+https://gitlab.com/UNKNOWN.UN/yocto_recipe_mysh
+https://gitlab.com/UNKNOWN.UN/yocto_recipe_cpptest
+
 ## Reference
 
 https://www.yoctoproject.org
